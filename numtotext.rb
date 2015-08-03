@@ -2,7 +2,7 @@ class NumberToText
 
 	def initialize
 		@numerals = Array["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
-		@teens = Array["ten", "eleven", "twelve", "thirteen", "fourteen", "fiveteen", "sixteen", "seventeen", "eighteen", "nineteen"]
+		@teens = Array["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
 		@decimals = Array["", "", "twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety"]
 		@units = Array["", "thousand", "million", "billion", "trillion"]
 		
